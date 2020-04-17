@@ -1,0 +1,7 @@
+# Project exclude paths
+/mybatis-generator/target/
+/shop-api/target/
+/shop-common/target/
+/shop-mapper/target/
+/shop-pojo/target/
+/shop-service/target/
