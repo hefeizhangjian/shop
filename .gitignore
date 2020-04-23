@@ -4,4 +4,7 @@
 /shop-common/target/
 /shop-mapper/target/
 /shop-pojo/target/
-/shop-service/target/
+/shop-service/target/workspace
+.project
+.classpath
+workspace

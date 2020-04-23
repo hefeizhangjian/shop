@@ -14,6 +14,8 @@ import tk.mybatis.spring.annotation.MapperScan;
  */
 @SpringBootApplication
 @MapperScan(basePackages = "com.zj.mapper")
+/*扫描所有包，以及相关组件包
+@ComponentScan(basePackages = {"com.zj","org.n3r.idworker"})*/
 public class APP {
     public static void main(String[] args) {
         SpringApplication.run(APP.class,args);
